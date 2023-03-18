@@ -1,0 +1,17 @@
+body{   
+    background-color: LightGray;  
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background-color: White;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background-color: SteelBlue; 
+    padding: 7px;  
+    margin-left: 70%;  
+}  
